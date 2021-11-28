@@ -6,6 +6,7 @@ require (
 	github.com/agnivade/levenshtein v1.1.0 // indirect
 	github.com/casbin/casbin v1.9.1
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/dgrijalva/jwt-go/v4 v4.0.0-preview1
 	github.com/go-chi/chi v4.0.2+incompatible
 	github.com/go-session/session v3.1.2+incompatible
 	github.com/golang/protobuf v1.5.2
